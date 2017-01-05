@@ -59,11 +59,3 @@ def main():
  
 if __name__ == '__main__':
     main()
-
-    # contact me ©Thariq Alfa.
-    # www.zrav420.rf.gd.
-    # open source.
-    # zravproject.
-    # how to run this code for scan port  site?.
-    # open your terminal and run "python myportscanner.py -H www.site.com -p 21,22,25,80,110,443".
-    # "21,22,25,80,110,443" this is port, you can add more port.
