@@ -3,7 +3,6 @@ from socket import *
 from threading import *
  
 screenLock = Semaphore(value=1)
-<a name="more"></a>
 
 def connectTest(tHost, tPort):
     try:
